@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Wang Youpeng</h1>
+<h3 align="center">A passionate student & developer from China</h3>
 
-<!--
-**wagoriginal/wagoriginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wangyoupeng&label=Profile%20views&color=0e75b6&style=flat" alt="wangyoupeng" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wangyoupeng&theme=onedark&row=1&column=6" alt="trophies"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Deep Learning, Reinforcement Learning**
+- 💬 Ask me about **Python / PyTorch / Docker**
+- 📫 How to reach me **your_email@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,git,github,linux,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wangyoupeng&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyoupeng&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+### 🔗 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/yourlinkedin" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" />
+</a>
+<a href="https://twitter.com/yourtwitter" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" width="40" />
+</a>
+</p>
